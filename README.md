@@ -1,7 +1,7 @@
-Here are some beginner level problems which are solved in python language. The contents covered up to problem 4 are;
-      •variables declaration,
-      •	 receiving input, 
-      •	type conversion, 
-      •	formatted strings
-      •	string method
-      •	If statements
+Here are some beginner level problems solved in Python 🐍
+📦 Variables Declaration
+⌨️ Receiving Input
+🔄 Type Conversion
+✨ Formatted Strings
+🔤 String Methods
+🔀 If Statements
